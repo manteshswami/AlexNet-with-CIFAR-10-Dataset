@@ -1,1 +1,1 @@
-# AlexNet-with-CIFAR-10-Dataset
+# AlexNet with CIFAR-10 Dataset
